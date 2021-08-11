@@ -1,6 +1,6 @@
 # Software-Design-Principles-And-Patterns-in-Golang
 ## SOLID Design Principles: 
-1. Single Responsibility Principle (SRP).
+1. [Single Responsibility Principle (SRP)](/SOLID%20Principle/Single%20Responsibility%20Principle).
 2. Open-Closed Principle (OCP).
 3. Liskov Substitution Principle (LSP).
 4. Interface Segregation Principle (ISP).
