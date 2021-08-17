@@ -2,7 +2,7 @@
 ## SOLID Design Principles: 
 1. [Single Responsibility Principle (SRP)](/1.%20SOLID%20Principle/1.%20Single%20Responsibility%20Principle).
 2. [Open-Closed Principle (OCP)](/1.%20SOLID%20Principle/2.%20Open%20Close%20Principle).
-3. Liskov Substitution Principle (LSP).
+3. [Liskov Substitution Principle (LSP)](/1.%20SOLID%20Principle/3.%20Liskov%20Substitution%20Principle).
 4. Interface Segregation Principle (ISP).
 5. Dependency Inversion Principle (DIP).  
 
