@@ -2,7 +2,7 @@
 
 * Objects should be replaceable with their subtypes without affecting the correctness of the program.
 * Change the "Is-A" way of thinking.
-* If it looks like a duck and quacks like a duck but it needs batteries, you probably have the wrong abstraction.
+* If it looks like a duck and quacks like a duck, but it needs batteries, you probably have the wrong abstraction.
 
 >Note:- Golang is **safe from LSP**, because in **golang we don’t have inheritance**, we have a more powerful tool that is the composition. Anyway composition does not allow to substitute parent struct by child struct.
  
