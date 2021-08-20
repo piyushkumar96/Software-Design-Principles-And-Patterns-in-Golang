@@ -4,7 +4,7 @@
 2. [Open-Closed Principle (OCP)](/1.%20SOLID%20Principle/2.%20Open%20Close%20Principle).
 3. [Liskov Substitution Principle (LSP)](/1.%20SOLID%20Principle/3.%20Liskov%20Substitution%20Principle).
 4. [Interface Segregation Principle (ISP)](/1.%20SOLID%20Principle/4.%20Interface%20Segregation%20Principle).
-5. Dependency Inversion Principle (DIP).  
+5. [Dependency Inversion Principle (DIP)](/1.%20SOLID%20Principle/5.%20Dependency%20Inversion%20Principle) .  
 
 ## Creational Design Patterns: 
 1. Builder.
